@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078019158422",
+    "project_id": "loja-virtual-a570e",
+    "storage_bucket": "loja-virtual-a570e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078019158422:android:b396670f20de315343adb7",
+        "android_client_info": {
+          "package_name": "com.singleApps.loja_virtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7VidoouaTP_2LFWsWPSby4EhMxQWdHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
